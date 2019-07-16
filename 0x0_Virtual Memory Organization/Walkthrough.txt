@@ -2,8 +2,8 @@ Assembly Primer For Hackers (Part 2) Virtual Memory Organization
 
 1.) Compile and run the program
 kan1shka9@dev:~/Desktop/PAL/2$ gcc -ggdb SimpleDemo.c -o SimpleDemo
-SimpleDemo.c: In function ‘main’:
-SimpleDemo.c:19:9: warning: ‘gets’ is deprecated (declared at /usr/include/stdio.h:638) [-Wdeprecated-declarations]
+SimpleDemo.c: In function â€˜mainâ€™:
+SimpleDemo.c:19:9: warning: â€˜getsâ€™ is deprecated (declared at /usr/include/stdio.h:638) [-Wdeprecated-declarations]
          gets(buffer);
          ^
 /tmp/ccPRcnQM.o: In function `main':
