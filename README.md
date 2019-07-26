@@ -1,5 +1,5 @@
 # Assembly4hack
-my learning case for assembly  
+my learning case for assembly ( learning in process )
 
 ##### Resource :
 https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe <br>
